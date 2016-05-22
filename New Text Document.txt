@@ -1,3 +1,4 @@
 add new file
 this is to make conflict
+this conflict already resolved
 
